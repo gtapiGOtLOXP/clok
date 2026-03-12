@@ -41,6 +41,11 @@ cd minecraft
 python minecraft.py
 ```
 
+```bash
+go to minecraft/ and open it in cmd
+python3 minecraft.py
+```
+
 Folder example:
 
 ```
@@ -69,7 +74,7 @@ roblox/roblox.py
 ### ▶ Run
 
 ```bash
-cd roblox
+open the roblox folder >
 python roblox.py
 ```
 
@@ -126,6 +131,6 @@ project/
 
 <div align="center">
 
-🖤 Made for fun and learning
+🖤 made for fun and learning by gtapiGOtLOXP 🖤
 
 </div>
